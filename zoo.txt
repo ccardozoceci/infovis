@@ -1,0 +1,7 @@
+Protovis
+Stem-and-Leaf Plots
+Q-Q Plots
+SPLOM
+Enclosure Diagrams
+Force-directed Layouts
+Arc Diagrams
