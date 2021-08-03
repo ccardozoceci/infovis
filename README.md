@@ -1,6 +1,6 @@
 # index.html
 
-https://ccardozoceci.github.io/infovis
+https://ccardozoceci.github.io/infovis/index.html
 
 # infovis
 
